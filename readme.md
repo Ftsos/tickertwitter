@@ -38,7 +38,7 @@ for your token secret key
 
 
 
-## ALL OF THEN YOU CAN CREATE IN
+## ALL OF TOKENS AND KEYS YOU CAN CREATE IN
 
 https://developer.twitter.com/
 
